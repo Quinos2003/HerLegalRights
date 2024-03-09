@@ -9,9 +9,6 @@ docs/_build/
 dist/
 .venv/
 
-
-# Created by https://www.gitignore.io
-
 ### OSX ###
 .DS_Store
 .AppleDouble
