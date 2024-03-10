@@ -7,9 +7,9 @@ function Nav() {
     <div className="  bg-gray-50">
       <div className="mx-2 flex justify-between">
         <Link to="/" class="navbar-brand">
-          <img src={Logo} className="h-16 m-0" />
+          <img src={Logo} className="h-28 mx-4" />
         </Link>
-        <div className="font-medium flex pt-5 flex-row space-x-8 rtl:space-x-reverse justify-end mr-4">
+        <div className="font-medium flex flex-row space-x-8 rtl:space-x-reverse my-auto justify-end mx-10 px-10">
           <Link
             to="/Resources"
             className="block py-2 px-3 text-black bg-blue-700 rounded md:bg-transparent  md:p-0 dark:text-black "
