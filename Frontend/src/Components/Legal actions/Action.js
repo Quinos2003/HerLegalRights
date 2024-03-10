@@ -1,34 +1,78 @@
 import React from "react";
 
 const actions = () => {
-  return <><div class="py-4 px-20 bg-gray-100 rounded-lg shadow-md">
-  <h2 class="text-xl font-semibold mb-2">Welcome to the Legal Laws section of HerLegalRights!</h2>
-  <p class="mb-4">Here, you'll find a comprehensive repository of legal statutes, regulations, and provisions relevant to women's rights. Our platform is dedicated to demystifying the legal landscape and empowering women to understand and assert their rights confidently. Whether you're seeking information on specific laws, legal precedents, or case studies, you'll find valuable resources here to support you on your journey towards justice.</p>
-  
-  <h3 class="text-lg font-semibold mb-2">What We Offer:</h3>
-  <ul class="list-disc ml-6 mb-4">
-      <li>Legislative Resources: Access key legal documents, including constitutions, statutes, acts, and regulations, relevant to women's rights.</li>
-      <li>Case Law Analysis: Explore landmark cases and judicial decisions that have shaped legal interpretations and protections for women.</li>
-      <li>Legal Commentary: Gain insights into complex legal issues through expert analysis, commentary, and opinion pieces on relevant legal topics.</li>
-      <li>Jurisdictional Coverage: Navigate through legal frameworks specific to your region or country, ensuring relevance and accuracy in legal guidance.</li>
-  </ul>
-  
-  <h3 class="text-lg font-semibold mb-2">How It Works:</h3>
-  <ul class="list-disc ml-6 mb-4">
-      <li>Browse by Category: Explore legal resources organized by categories such as civil rights, reproductive rights, workplace discrimination, and more.</li>
-      <li>Search Functionality: Easily find specific laws, cases, or legal topics using our advanced search features.</li>
-      <li>Multilingual Support: Access legal documents and resources in multiple languages, breaking down language barriers and promoting inclusivity.</li>
-      <li>Educational Materials: Learn about fundamental legal concepts, principles, and procedures through our educational materials and guides.</li>
-  </ul>
-  
-  <h3 class="text-lg font-semibold mb-2">Why Choose Us:</h3>
-  <ul class="list-disc ml-6 mb-4">
-      <li>Trusted Source: Our platform is curated by legal experts and scholars to provide accurate, reliable, and up-to-date legal information.</li>
-      <li>User-Friendly Interface: Navigate through complex legal documents and resources with ease using our intuitive interface and tools.</li>
-      <li>Accessible Content: We believe in making legal information accessible to all, regardless of background, education, or experience level.</li>
-      <li>Empowerment Focus: Our mission is to empower women by equipping them with the knowledge and resources they need to assert their legal rights confidently.</li>
-  </ul>
+  return <><div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Protection of Women from Domestic Violence Act, 2005</div>
+    <p class="text-gray-700 text-base">
+      This act aims to protect women from domestic violence and provides for various forms of relief, including protection orders, residence orders, and monetary relief.
+    </p>
+  </div>
 </div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Dowry Prohibition Act, 1961</div>
+    <p class="text-gray-700 text-base">
+      This law prohibits the practice of giving or receiving dowry in marriage. Dowry-related offenses are punishable by law.
+    </p>
+  </div>
+</div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 2013</div>
+    <p class="text-gray-700 text-base">
+      This act aims to prevent and address sexual harassment of women at the workplace. It mandates the establishment of Internal Complaints Committees (ICC) in organizations and provides a mechanism for redressal.
+    </p>
+  </div>
+</div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Maternity Benefit Act, 1961</div>
+    <p class="text-gray-700 text-base">
+      This act regulates the employment of women during and after childbirth and provides for maternity leave and other benefits.
+    </p>
+  </div>
+</div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Prohibition of Child Marriage Act, 2006</div>
+    <p class="text-gray-700 text-base">
+      This law prohibits the solemnization of child marriages and provides for penalties for those who perform, participate in, or facilitate such marriages.
+    </p>
+  </div>
+</div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Medical Termination of Pregnancy Act, 1971</div>
+    <p class="text-gray-700 text-base">
+      This act regulates the termination of pregnancies and ensures women's reproductive rights.
+    </p>
+  </div>
+</div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Protection of Children from Sexual Offenses (POCSO) Act, 2012</div>
+    <p class="text-gray-700 text-base">
+      Although not specific to women, this act aims to protect children, including girls, from sexual offenses and provides for stringent punishment for perpetrators.
+    </p>
+  </div>
+</div>
+
+<div class="max-w-full rounded overflow-hidden shadow-lg bg-white mx-auto mt-4">
+  <div class="px-6 py-4">
+    <div class="font-bold text-xl mb-2">Indian Penal Code (IPC)</div>
+    <p class="text-gray-700 text-base">
+      Various sections of the IPC deal with crimes against women, including rape (Section 375), molestation (Section 354), kidnapping and abduction (Sections 359-373), and others.
+    </p>
+  </div>
+</div>
+
 </>;
 };
 

@@ -11,7 +11,7 @@ const Hero = () => {
           <span className="mr-4 font-extrabold font-sans text-4xl">
             HerLegalRights
           </span>
-          is a Empowering women by bridging the gap between legal frameworks and
+          is Empowering women by bridging the gap between legal frameworks and
           awareness. We revolutionize access to legal assistance with a
           comprehensive approach, including education, community support, and
           empowerment initiatives in the fight against gender inequality
