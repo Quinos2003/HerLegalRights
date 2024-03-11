@@ -22,19 +22,11 @@ HerLegalRights is more than just a platform; it's a movement towards equality an
 Our platform stands out with its comprehensive approach, offering not only informational resources but also personalized support through consultations and interactive features like the Q&A section. By combining education, community, and empowerment, HerLegalRights revolutionizes the way women access legal assistance and advocacy.
 
 ## Technical Aspect
-- **Backend Service**: Python with Flask framework for efficient handling of server-side logic and API endpoints.
+- **Backend Service**: Python with Flask & Django framework for efficient handling of server-side logic and API endpoints.
 - **Frontend Interface**: React.js with HTML, CSS, and JavaScript for creating an intuitive and interactive user experience in the web application.
 - **AI/ML Techniques**: Utilizing Python libraries such as scikit-learn and TensorFlow for data analysis, natural language processing (NLP), and machine learning models to provide personalized legal advice and insights.
 - **Dataset Integration**: Incorporating a comprehensive dataset containing legal information, including the Indian Penal Code (IPC) sections, available in multiple languages such as English, Hindi, Marathi,etc. to empower women with accurate and relevant legal guidance.
 
-## Team Information
-**Team Name:** Law4Her
-
-**Team Members:**
-- Samarth Asthana
-- Vaibhav Vilas Pawar
-- Adiba Faiyaz
-- Kartik Agarwal
 
 
 
