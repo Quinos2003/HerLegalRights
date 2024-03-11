@@ -16,9 +16,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Hero />} />
           <Route path="/about" element={<About />} />
-          <Route path="/Case" element={<Case />} />
-          <Route path="/Workshop" element={<Workshop/>}/>
-          <Route path="/Resources" element={<Resources/>}/>
+          <Route path="/case" element={<Case />} />
+          <Route path="/workshop" element={<Workshop/>}/>
+          <Route path="/resources" element={<Resources/>}/>
           <Route path="/actions" element={<Actions/>}/>
 
         </Routes>
